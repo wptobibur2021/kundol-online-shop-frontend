@@ -1,0 +1,23 @@
+.leftSidebarSections {
+    margin: 0 !important;
+    padding: 0 !important;
+
+}
+.leftSidebarMeu{
+    background-color: #fff;
+    -webkit-box-shadow: 0px 0px 30px 0px rgba(124,124,124,0.54);
+    box-shadow: 0px 0px 30px 0px rgba(124,124,124,0.54);
+}
+ul.leftMenu {
+    margin: 0;
+    padding: 30px;
+}
+
+li.leftMenuItem {
+    padding: 5px 20px;
+    cursor: pointer;
+    list-style: none;
+    text-decoration: none;
+    border-bottom: 1px solid #ffe9e9;
+    color: #000;
+}

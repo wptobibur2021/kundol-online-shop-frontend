@@ -1,0 +1,25 @@
+.loginPageSection{
+    padding: 140px 0px;
+}
+.loginFrom {
+    background-color: #d1e1ffeb;
+    padding: 20px;
+    border-radius: 10px;
+}
+span.requiredColor {
+    color: red;
+}
+.diveder {
+    border-bottom: 2px solid #f0c6c6;
+    margin: 25px 0px;
+}
+
+.loginToAnother {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.loginIcon {
+    margin: 0px 20px;
+}
+

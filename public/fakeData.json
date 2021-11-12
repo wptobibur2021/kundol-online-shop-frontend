@@ -1,0 +1,218 @@
+[
+    {
+        "brand" :"Chevrolet",
+        "name": "Chevrolet Private Car",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adip iscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "photo": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg",
+        "price": 300000
+    },
+    {
+        "brand" :"Honda",
+        "name": "Honda Private Car",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adip iscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "photo": "https://www.globalbrandsmagazine.com/wp-content/uploads/2020/09/2021-Honda-Civic-Type-R-014-1200x800-1-1.jpg",
+        "price": 300000
+    },
+    {
+        "brand" :"Nissan",
+        "name": "Nissan Car",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adip iscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "photo": "https://images.pexels.com/photos/116675/pexels-photo-116675.jpeg",
+        "price": 500000
+    },
+    {
+        "brand" :"Ford",
+        "name": "Ford Private Car",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adip iscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "photo": "https://images.pexels.com/photos/7744711/pexels-photo-7744711.jpeg",
+        "price": 300000
+    },
+    {
+        "brand" :"Fiat",
+        "name": "Fiat Private Car",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adip iscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "photo": "https://images.pexels.com/photos/6395602/pexels-photo-6395602.jpeg",
+        "price": 300000
+    },
+    {
+        "brand" :"Jeep",
+        "name": "Chevrolet Private Car",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adip iscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "photo": "https://images.pexels.com/photos/4692096/pexels-photo-4692096.jpeg",
+        "price": 300000
+    },
+    {
+        "brand" :"Volkswagen",
+        "name": "Volkswagen Private Car",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adip iscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "photo": "https://images.pexels.com/photos/4692083/pexels-photo-4692083.jpeg",
+        "price": 300000
+    },
+    {
+        "brand" :"Volvo",
+        "name": "Volvo Private Car",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adip iscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "photo": "https://images.pexels.com/photos/358070/pexels-photo-358070.jpeg",
+        "price": 300000
+    },
+    {
+        "brand" :"Jaguar",
+        "name": "Jaguar Private Car",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adip iscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "photo": "https://images.pexels.com/photos/5049261/pexels-photo-5049261.jpeg",
+        "price": 300000
+    },
+    {
+        "brand" :"Audi",
+        "name": "Audi Private Car",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adip iscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "photo": "https://images.pexels.com/photos/5049261/pexels-photo-5049261.jpeg",
+        "price": 300000
+    },
+    {
+        "brand" :"Toyota",
+        "name": "Toyota Private Car",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adip iscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "photo": "https://images.pexels.com/photos/5049261/pexels-photo-5049261.jpeg",
+        "price": 300000
+    },
+    {
+        "brand" :"Land Rover",
+        "name": "Land Rover Car",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adip iscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "photo": "https://images.pexels.com/photos/5049261/pexels-photo-5049261.jpeg",
+        "price": 300000
+    },
+    {
+        "brand" :"Lexus",
+        "name": "Lexus Private Car",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adip iscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "photo": "https://images.pexels.com/photos/5049261/pexels-photo-5049261.jpeg",
+        "price": 300000
+    },
+    {
+        "brand" :"Porsche",
+        "name": "Porsche Private Car",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adip iscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "photo": "https://images.pexels.com/photos/5049261/pexels-photo-5049261.jpeg",
+        "price": 300000
+    },
+    {
+        "brand" :"Bugatti",
+        "name": "Bugatti Private Car",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adip iscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "photo": "https://images.pexels.com/photos/5049261/pexels-photo-5049261.jpeg",
+        "price": 300000
+    },
+    {
+        "brand" :"Rolls Royce",
+        "name": "Rolls Royce Private Car",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adip iscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "photo": "https://images.pexels.com/photos/5049261/pexels-photo-5049261.jpeg",
+        "price": 300000
+    },
+    {
+        "brand" :"BMW",
+        "name": "BMW Car",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adip iscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "photo": "https://images.pexels.com/photos/5049261/pexels-photo-5049261.jpeg",
+        "price": 300000
+    },
+    {
+        "brand" :"Tesla",
+        "name": "Tesla Car",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adip iscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "photo": "https://images.pexels.com/photos/5049261/pexels-photo-5049261.jpeg",
+        "price": 300000
+    },
+    {
+        "brand" :"Mercedes- Benz",
+        "name": "Mercedes- Benz",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adip iscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "photo": "https://images.pexels.com/photos/5049261/pexels-photo-5049261.jpeg",
+        "price": 300000
+    }
+],
+
+
+
+[
+    {
+        "name" : "Joseph Leatherwood",
+        "photo" : "https://images.pexels.com/photos/1300402/pexels-photo-1300402.jpeg",
+        "rating" : 3,
+        "desc" : "Lorem ipsum dolor sit amet, consectetur adip iscing elit, sed do eiusmod tempor incididunt",
+    },
+    {
+        "name" : "Scott Keys",
+        "photo" : "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
+        "rating" : 5,
+        "desc" : "Lorem ipsum dolor sit amet, consectetur adip iscing elit, sed do eiusmod tempor incididunt",
+    },
+    {
+        "name" : "Keneth Owen",
+        "photo" : "https://images.pexels.com/photos/1300402/pexels-photo-1300402.jpeg",
+        "rating" : 4,
+        "desc" : "Lorem ipsum dolor sit amet, consectetur adip iscing elit, sed do eiusmod tempor incididunt",
+    },
+    {
+    "name" : "Marcia Burns",
+    "photo" : "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg",
+    "rating" : 2.5,
+    "desc" : "Lorem ipsum dolor sit amet, consectetur adip iscing elit, sed do eiusmod tempor incididunt",
+    },
+    {
+    "name" : "Geri Babin",
+    "photo" : "https://images.pexels.com/photos/769690/pexels-photo-769690.jpeg",
+    "rating" : 5,
+    "desc" : "Lorem ipsum dolor sit amet, consectetur adip iscing elit, sed do eiusmod tempor incididunt",
+    },
+    {
+    "name" : "Nancy Darling",
+    "photo" : "https://images.pexels.com/photos/997512/pexels-photo-997512.jpeg",
+    "rating" : 3,
+    "desc" : "Lorem ipsum dolor sit amet, consectetur adip iscing elit, sed do eiusmod tempor incididunt",
+    },
+    {
+    "name" : "Tim Stafford",
+    "photo" : "https://images.pexels.com/photos/837140/pexels-photo-837140.jpeg",
+    "rating" : 5,
+    "desc" : "Lorem ipsum dolor sit amet, consectetur adip iscing elit, sed do eiusmod tempor incididunt",
+    },
+    {
+    "name" : "Roger Gaudette",
+    "photo" : "https://images.pexels.com/photos/38554/girl-people-landscape-sun-38554.jpeg",
+    "rating" : 4.5,
+    "desc" : "Lorem ipsum dolor sit amet, consectetur adip iscing elit, sed do eiusmod tempor incididunt",
+    },
+    {
+    "name" : "Ruth Taylor",
+    "photo" : "https://images.pexels.com/photos/3757030/pexels-photo-3757030.jpeg",
+    "rating" : 3,
+    "desc" : "Lorem ipsum dolor sit amet, consectetur adip iscing elit, sed do eiusmod tempor incididunt",
+    },
+    {
+    "name" : "Erica Shears",
+    "photo" : "https://images.pexels.com/photos/3760922/pexels-photo-3760922.jpeg",
+    "rating" : 4.5,
+    "desc" : "Lorem ipsum dolor sit amet, consectetur adip iscing elit, sed do eiusmod tempor incididunt",
+    },
+    {
+    "name" : "Herman Davis",
+    "photo" : "https://images.pexels.com/photos/1300402/pexels-photo-1300402.jpeg",
+    "rating" : 5,
+    "desc" : "Lorem ipsum dolor sit amet, consectetur adip iscing elit, sed do eiusmod tempor incididunt",
+    },
+    {
+    "name" : "Tracy Wilhoite",
+    "photo" : "https://images.pexels.com/photos/1853035/pexels-photo-1853035.jpeg",
+    "rating" : 3.5,
+    "desc" : "Lorem ipsum dolor sit amet, consectetur adip iscing elit, sed do eiusmod tempor incididunt",
+    },
+    {
+    "name" : "John Dunn",
+    "photo" : "https://images.pexels.com/photos/3760924/pexels-photo-3760924.jpeg",
+    "rating" : 4.5,
+    "desc" : "Lorem ipsum dolor sit amet, consectetur adip iscing elit, sed do eiusmod tempor incididunt",
+    },
+]

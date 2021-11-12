@@ -1,0 +1,12 @@
+.me-auto {
+    margin: auto!important;
+}
+a.nav-link {
+    font-size: 20px;
+    font-weight: 500;
+}
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    position: sticky;
+    top: 0px;
+    z-index: 9999;
+}

@@ -1,0 +1,4 @@
+input.form-control:focus {
+    box-shadow: none;
+    border: 1px solid #e9ecef;
+}

@@ -1,0 +1,26 @@
+.addDonationSections, .courseListContainer{
+    background-color: #fff;
+    -webkit-box-shadow: 0px 0px 30px 0px rgba(124,124,124,0.54);
+    box-shadow: 0px 0px 30px 0px rgba(124,124,124,0.54);
+    padding: 50px 25px
+}
+.form-control:focus {
+    color: #212529;
+    background-color: #fff;
+    border-color: #ced4da !important;
+    outline: 0;
+    box-shadow: none !important;
+}
+.form-select:focus {
+    border-color: #ced4da !important;
+    outline: 0;
+    box-shadow: none !important;
+}
+.btn-check:focus+.btn, .btn:focus {
+    box-shadow: none !important;
+}
+.acctionIcon{
+    cursor: pointer;
+    margin: 5px;
+    font-size: 20px;
+}

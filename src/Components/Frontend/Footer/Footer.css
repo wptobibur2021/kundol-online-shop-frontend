@@ -1,0 +1,19 @@
+.footerSection {
+    background-color: #0eb9cb;
+    padding: 50px 0px;
+    color: #000;
+}
+h3.footerTittle {
+    margin-bottom: 20px;
+}
+.footerWidgets {
+    padding: 0px 20px;
+}
+li.footerMenuList {
+    margin-bottom: 10px;
+}
+
+svg.footerIcon {
+    margin-right: 10px;
+    color: #4e276d;
+}
