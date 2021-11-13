@@ -43,6 +43,12 @@ export default function Dashboard() {
                                 <Route path={`${path}/manage-products`}>
                                     <AllProducts></AllProducts>
                                 </Route>
+                                <Route path={`${path}/pay`}>
+                                    <Col md={9}>
+                                        <h1>Pay system Cumming Soon</h1>
+                                    </Col>
+
+                                </Route>
                             </Switch>
                         </Row>
                     </Container>

@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import PageLayout from "../PageLayout/PageLayout";
-import {Container, Row, Col} from "react-bootstrap";
+import {Container, Row, Col, Image} from "react-bootstrap";
 import Order from "./Order";
 import {  useParams } from 'react-router';
 import axios from "axios";
@@ -21,7 +21,7 @@ const Details = () => {
                                <h3>Product Overview</h3>
                                <h4>{detail?.name}</h4>
                                <h6>Price: ${detail?.price} </h6>
-                               <img style={{width: '650px', objectFit: 'cover', margin: '30px 0px'}} src={detail?.photo} alt={detail?.name}/>
+                               <Image src={detail?.photo} fluid />
                                 <p>{detail?.desc}</p>
                            </div>
                        </Col>

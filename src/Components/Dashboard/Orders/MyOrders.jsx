@@ -71,6 +71,7 @@ const MyOrders = () => {
               {
                   isLoading && <div style={{display: 'flex', alignItems: 'center', justifyContent: 'center'}}><Spinner animation="border" variant="primary" /></div>
               }
+              
           </Col>
     );
 };
