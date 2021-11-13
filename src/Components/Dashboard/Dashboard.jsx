@@ -8,6 +8,7 @@ import AddReview from "./Review/AddReview";
 import MyOrders from "./Orders/MyOrders";
 import OurOrders from "./Orders/OurOrders";
 import MakeAdmin from "./MakeAdmin/MakeAdmin";
+import AllProducts from "./Product/AllProducts";
 export default function Dashboard() {
     let { path, url } = useRouteMatch();
     return (
@@ -38,6 +39,9 @@ export default function Dashboard() {
                                 </Route>
                                 <Route path={`${path}/make-admin`}>
                                     <MakeAdmin></MakeAdmin>
+                                </Route>
+                                <Route path={`${path}/manage-products`}>
+                                    <AllProducts></AllProducts>
                                 </Route>
                             </Switch>
                         </Row>

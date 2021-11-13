@@ -8,8 +8,9 @@ const MyOrders = () => {
     const {orderRemove} = useNotification()
     const {user, isLoading} = useAuth()
     const [myOrders, setOrders] = useState([])
-    const url = `https://shielded-shelf-27362.herokuapp.com/api/user/orders/${user.uid}`
+    const url = `https://shielded-shelf-27362.herokuapp.com/api/user/orders/${user.email}`
     axios.get(url).then(res=>{
+        console.log('My Orders:', res.data)
         setOrders(res.data)
     })
     const removeOrder = id =>{
@@ -23,7 +24,6 @@ const MyOrders = () => {
                 }
             })
         }
-
     }
 
     return (

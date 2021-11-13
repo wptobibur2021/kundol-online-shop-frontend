@@ -15,6 +15,7 @@ export default function LeftSidebar({url}) {
                             <li className="leftMenuItem"><NavLink to={`${url}/add-product`}>Add Product</NavLink></li>
                             <li className="leftMenuItem"><NavLink to={`${url}/our-orders`}>Our Orders</NavLink></li>
                             <li className="leftMenuItem"><NavLink to={`${url}/make-admin`}>Make An Admin</NavLink></li>
+                                <li className="leftMenuItem"><NavLink to={`${url}/manage-products`}>Manage Products</NavLink></li>
                         </div>
                             :
                             <div>

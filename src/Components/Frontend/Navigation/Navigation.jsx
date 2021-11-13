@@ -22,14 +22,6 @@ const Navigation = () => {
                         navbarScroll
                     >
                         <NavLink to='/' className="nav-link">Home</NavLink>
-                        <NavDropdown title="Link" id="navbarScrollingDropdown">
-                            <NavDropdown.Item href="#action3">Action</NavDropdown.Item>
-                            <NavDropdown.Item href="#action4">Another action</NavDropdown.Item>
-                            <NavDropdown.Divider />
-                            <NavDropdown.Item href="#action5">
-                                Something else here
-                            </NavDropdown.Item>
-                        </NavDropdown>
                         <NavLink to='/shop' className="nav-link">Shop</NavLink>
                         {
                             user?.email ? <div style={{display: 'flex'}}>

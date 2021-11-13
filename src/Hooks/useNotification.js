@@ -104,7 +104,19 @@ const useNotification = () =>{
     }
     // Make Admin Notification
     const orderRemove = () =>{
-        toast.success('Admin Create Success', {
+        toast.success('Order Remove Success', {
+            position: "bottom-right",
+            autoClose: 5000,
+            hideProgressBar: false,
+            closeOnClick: true,
+            pauseOnHover: true,
+            draggable: true,
+            progress: undefined,
+        });
+    }
+    // Make Admin Notification
+    const productRemove = () =>{
+        toast.success('Product Remove Success', {
             position: "bottom-right",
             autoClose: 5000,
             hideProgressBar: false,
@@ -126,6 +138,6 @@ const useNotification = () =>{
             progress: undefined,
         });
     }
-    return {passWordError, userCreate,newReview, orderSuccess, userLogin, userLogout, newProduct, userMakeAdmin, orderRemove,statusUpdate}
+    return {productRemove,passWordError, userCreate,newReview, orderSuccess, userLogin, userLogout, newProduct, userMakeAdmin, orderRemove,statusUpdate}
 }
 export default useNotification
