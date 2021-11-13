@@ -6,7 +6,7 @@ const Products = () => {
     const [products, setProducts] = useState([])
 
     useEffect(()=>{
-        const url = 'https://shielded-shelf-27362.herokuapp.com/api/products'
+        const url = 'https://shielded-shelf-27362.herokuapp.com/api/shop/products'
         axios.get(url).then(res=>{
             setProducts(res.data)
         })
@@ -15,7 +15,7 @@ const Products = () => {
     return (
         <div className="productSectionContainer" style={{padding: '80px 0px'}}>
             <div className="sectionTitle text-center" style={{padding: '20px 0px'}}>
-                <h1>Our Recent Product</h1>
+                <h1>Our Product</h1>
                 <p>Your Trust Our Forward in Future</p>
             </div>
             <div className="productSections">
